@@ -1,6 +1,6 @@
 # Cronometro
 
-[Link do cronoemtro](https://gustavoaca.github.io/Cronometro)
+[Link do cronometro](https://gustavoaca.github.io/Cronometro)
 <hr>
 
 ![Foto do cronometro](https://github.com/GustavoAca/FotosDeProjetos/blob/master/cronometro/cronometro.png)
